@@ -3,7 +3,7 @@
 # 'world'  =>  'dlrow'
 # 'word'   =>  'drow'
 
-#My solution (in partnership with @marepifanio durin the lunch)
+#My solution (in partnership with @marepifanio during the lunch)
 def solution(string):
   z = string[::-1]
   answer = "".join(z)  
